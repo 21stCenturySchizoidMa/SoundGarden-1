@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+} 
+
+body{
+    background-color: black;
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    gap:300px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.box-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #750E21;
+    border-radius: 20px;
+    width: 40%;
+    height: 20%;
+    margin-top: 10px;
+}.title{
+    color: white;
+}
+
+.box-left{
+    background-color: #750E21;
+    width: 230px;
+    height: 860px;
+}
+
+.menu{
+    flex-direction: column;
+    margin-left: 27px;
+    margin-top: 24px;
+    border-radius: 7px;
+    width: 130px;
+    height: 60px;
+    transition: 300ms;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.menu:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+a{
+    text-decoration: none;
+    color: #750E21;
+}
+
+
+
+
+
