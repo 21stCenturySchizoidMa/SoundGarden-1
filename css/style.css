@@ -13,19 +13,19 @@ body{
 
 
 
-.box-title{
-    position: absolute;
-    transform: translateX(295%);
+.title-section{
+    display: flex;
+    justify-content: center;
 
+}.box-title{
     display: flex;
     align-items: center;
     justify-content: center;
-
+    background: linear-gradient(0deg,rgb(255, 166, 0),rgb(255, 1, 1) 50%);
     color:white;
-    width: 300px;
-    height: 50px;
-    border-end-end-radius: 30px;
-    border-top-left-radius: 30px;
+    width: 450px;
+    height: 60px;
+    border-radius: 30px;
     font-size: 1.5em;
 }
 
