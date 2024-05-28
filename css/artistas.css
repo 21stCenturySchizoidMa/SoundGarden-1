@@ -68,7 +68,7 @@ a{
 #beatles{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-400px;
 		margin-top:-150px;
 }
@@ -76,7 +76,7 @@ a{
 #pink-floyd{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-50px;
 		margin-top:-150px;
 }
@@ -84,7 +84,7 @@ a{
 #bowie{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:300px;
 		margin-top:-150px;
 }
@@ -92,7 +92,7 @@ a{
 #yes{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-400px;
 		margin-top: 300px;
 }
@@ -100,7 +100,7 @@ a{
 #velvet{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-50px;
 		margin-top: 300px;
 }
@@ -108,7 +108,7 @@ a{
 #doors{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:300px;
 		margin-top: 300px;
 }

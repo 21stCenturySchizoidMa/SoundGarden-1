@@ -68,7 +68,7 @@ a{
 #chupe-meu-braço{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-400px;
 		margin-top:-150px;
 
@@ -77,7 +77,7 @@ a{
 #pewee-cast{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-50px;
 		margin-top:-150px;
 }
@@ -85,7 +85,7 @@ a{
 #misterios-narrados{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:300px;
 		margin-top:-150px;
 }
@@ -93,7 +93,7 @@ a{
 #psicanalise-buteco{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-400px;
 		margin-top: 300px;
 }
@@ -101,7 +101,7 @@ a{
 #ludocast{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:-50px;
 		margin-top: 300px;
 }
@@ -109,7 +109,7 @@ a{
 #astronomia{
     position:absolute;
 		left:50%;
-		top:37%;
+		top:50%;
 		margin-left:300px;
 		margin-top: 300px;
 }

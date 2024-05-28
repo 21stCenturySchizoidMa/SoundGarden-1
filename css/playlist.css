@@ -70,7 +70,7 @@ a{
 #playlist-edu{
     position:absolute;
 		left:50%;
-		top:37%;
+		top: 50%;
 		margin-left:-400px;
 		margin-top:-150px;
         
@@ -79,7 +79,7 @@ a{
 #playlist-ruan{
     position:absolute;
 		left:50%;
-		top:37%;
+		top: 50%;
 		margin-left:-50px;
 		margin-top:-150px;
 }
@@ -87,7 +87,7 @@ a{
 #playlist-gabi{
     position:absolute;
 		left:50%;
-		top:37%;
+		top: 50%;
 		margin-left:-400px;
 		margin-top: 300px;
 }
@@ -95,7 +95,7 @@ a{
 #playlist-caio{
     position:absolute;
 		left:50%;
-		top:37%;
+		top: 50%;
 		margin-left:-50px;
 		margin-top: 300px;
 }
@@ -103,7 +103,7 @@ a{
 #playlist-edu2{
     position:absolute;
 		left:50%;
-		top:37%;
+		top: 50%;
 		margin-left:300px;
 		margin-top:-150px;
 }
@@ -111,7 +111,7 @@ a{
 #playlist-gabi2{
     position:absolute;
 		left:50%;
-		top:37%;
+		top: 50%;
 		margin-left:300px;
 		margin-top: 300px;
 }
