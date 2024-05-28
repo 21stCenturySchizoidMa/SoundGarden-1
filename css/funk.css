@@ -31,6 +31,7 @@ body{
 }
 
 
+
 .lateral-bar{
     position: relative;
 }.box-left{
@@ -65,7 +66,7 @@ a{
     color: #750E21;
 }
 
-#sgt-pp{
+#FB{
     position:absolute;
 		left:50%;
 		top:50%;
@@ -73,7 +74,7 @@ a{
 		margin-top:-150px;
 }
 
-#dark-side{
+#kings-queens{
     position:absolute;
 		left:50%;
 		top:50%;
@@ -81,7 +82,7 @@ a{
 		margin-top:-150px;
 }
 
-#terco{
+#over-rainbow{
     position:absolute;
 		left:50%;
 		top:50%;
@@ -89,7 +90,7 @@ a{
 		margin-top:-150px;
 }
 
-#kc{
+#tank{
     position:absolute;
 		left:50%;
 		top:50%;
@@ -97,7 +98,7 @@ a{
 		margin-top: 300px;
 }
 
-#pet-sounds{
+#witch-hunt{
     position:absolute;
 		left:50%;
 		top:50%;
@@ -105,7 +106,7 @@ a{
 		margin-top: 300px;
 }
 
-#aespa{
+#blue-train{
     position:absolute;
 		left:50%;
 		top:50%;
