@@ -1,7 +1,8 @@
 <?php
-define('HOST','');
-define('USUARIO', 'root');
-define('SENHA','1234');
-define('DB','login');
+    $hostname = "localhost";
+    $db = "cadastro";
+    $usuario = "root";
+    $senha = "";
 
-$conexao = mysqli_connect(HOST, USUARIO, SENHA, DB) or die ('Ouve um erro na conexão, tente novamente.');
+    $conn = mysql_connect($hostname, $db, $usuario, $senha);
+?>
