@@ -1,0 +1,65 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:linear-gradient(0deg, red,black 60%);
+    display: flex;
+    font-family: fantasy;
+    font-display: swap;
+    height: inherit;
+    align-items: center;
+    color:white;
+    flex-direction: column;
+}
+
+h1{
+    margin-top: 30px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:100px;
+    border-radius: 20px;
+    box-shadow: 0 4px 50px;
+    border: 1px solid (white);
+    flex-basis: 320px;
+    height: 200px;
+    padding: 50px 50px;
+}
+
+#user{
+    border-radius: 20px;
+    height: 30px;
+    
+}
+
+#email{
+    border-radius: 20px;
+    height: 30px;
+    
+}
+
+#senha{
+    border-radius: 20px;
+    height: 30px;
+    
+}
+
+#submit{
+    border-radius: 20px;
+    width: 80px;
+    height: 40px;
+    
+}
