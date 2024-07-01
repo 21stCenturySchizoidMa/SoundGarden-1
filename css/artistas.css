@@ -112,3 +112,57 @@ a{
 		margin-left:300px;
 		margin-top: 300px;
 }
+
+#beatles-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-310px;
+		margin-top:220px;
+        color: white;
+}
+
+#pink-floyd-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:35px;
+		margin-top:220px;
+        color: white;
+}
+
+#bowie-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:400px;
+		margin-top:220px;
+        color: white;
+}
+
+#yes-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-310px;
+		margin-top:670px;
+        color: white;
+}
+
+#velvet-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:35px;
+		margin-top:670px;
+        color: white;
+}
+
+#doors-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:400px;
+		margin-top:670px;
+        color: white;
+}

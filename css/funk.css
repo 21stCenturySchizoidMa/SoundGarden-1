@@ -4,7 +4,7 @@
 } 
 
 body{
-    background:linear-gradient(0deg, red,black 60%);
+    background:linear-gradient(0deg, purple,black 60%);
     font-family: "Righteous", sans-serif;
     font-weight: 400px;
     font-style: normal;
@@ -63,7 +63,7 @@ body{
 
 a{
     text-decoration: none;
-    color: #750E21;
+    color: purple;
 }
 
 #FB{
@@ -112,4 +112,13 @@ a{
 		top:50%;
 		margin-left:300px;
 		margin-top: 300px;
+}
+
+#genero-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:18px;
+		margin-top:-210px;
+        color: white;
 }
