@@ -113,3 +113,12 @@ a{
 		margin-left:300px;
 		margin-top: 300px;
 }
+
+#genero-info{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:18px;
+		margin-top:-210px;
+        color: white;
+}
