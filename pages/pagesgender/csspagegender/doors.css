@@ -8,10 +8,19 @@ body{
     font-family: "Righteous", sans-serif;
     font-weight: 400px;
     font-style: normal;
-    height: 200vh;
+    height: 250vh;
 }
 
-
+p{
+    color: white;
+    position:absolute;
+		left:50%;
+		margin: 100px;
+        top:50%;
+		margin-left:-470px;
+		margin-top: 750px;
+        
+}
 
 .title-section{
     display: flex;
@@ -29,6 +38,7 @@ body{
     border-radius: 30px;
     font-size: 1.5em;
 }
+
 
 
 .lateral-bar{
@@ -65,62 +75,16 @@ a{
     color: #750E21;
 }
 
-#chupe-meu-braço{
-    position:absolute;
-		left:50%;
-		top:50%;
-		margin-left:-400px;
-		margin-top:-150px;
-
+#doors-img{
+    margin-left: 400px;
 }
 
-#pewee-cast{
-    position:absolute;
-		left:50%;
-		top:50%;
-		margin-left:-50px;
-		margin-top:-150px;
-}
-
-#misterios-narrados{
-    position:absolute;
-		left:50%;
-		top:50%;
-		margin-left:300px;
-		margin-top:-150px;
-}
-
-#psicanalise-buteco{
-    position:absolute;
-		left:50%;
-		top:50%;
-		margin-left:-400px;
-		margin-top: 300px;
-}
-
-#ludocast{
-    position:absolute;
-		left:50%;
-		top:50%;
-		margin-left:-50px;
-		margin-top: 300px;
-}
-
-#astronomia{
-    position:absolute;
-		left:50%;
-		top:50%;
-		margin-left:300px;
-		margin-top: 300px;
-}
-
-#nota{
+#doors-info{
     color: white;
     position:absolute;
 		left:50%;
-		top:50%;
+		margin: 100px;
+        top:50%;
 		margin-left:-470px;
-		margin-top: 700px;
+		margin-top: 20px;
 }
-
-

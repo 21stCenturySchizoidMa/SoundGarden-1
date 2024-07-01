@@ -8,7 +8,7 @@ body{
     font-family: "Righteous", sans-serif;
     font-weight: 400px;
     font-style: normal;
-    height: 200vh;
+    height: 280vh;
 }
 
 
@@ -114,11 +114,22 @@ a{
 		margin-top: 300px;
 }
 
-#genero-info{
+#sg{
+    color: white;
     position:absolute;
 		left:50%;
 		top:50%;
-		margin-left:18px;
-		margin-top:-210px;
-        color: white;
+		margin-left:-470px;
+		margin-top: 700px;
+}
+
+p{
+    color: white;
+    position:absolute;
+		left:50%;
+		margin: 100px;
+        top:50%;
+		margin-left:-470px;
+		margin-top: 750px;
+        
 }

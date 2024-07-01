@@ -115,3 +115,12 @@ a{
 		margin-left:300px;
 		margin-top: 300px;
 }
+
+#nota{
+    color: white;
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-470px;
+		margin-top: 700px;
+}
